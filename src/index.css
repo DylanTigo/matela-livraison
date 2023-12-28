@@ -1,0 +1,11 @@
+@import "./assets/Variables.css";
+
+*, ::after, ::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: var(--primary-white);
+  color: var(--primary-black);
+}

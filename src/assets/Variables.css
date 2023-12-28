@@ -1,0 +1,29 @@
+:root{
+    /* color */
+    --primary-red: #F82833;
+    --primary-balck: #222222;
+    --placeholder-black: #1e1e1ebf;
+    --primary-white: #E1DCDC;
+    --secondary-white: #FFFFFF;
+    --hover-white: #e1dcdc80;
+    --hover-white-secondary: #ffffff80;
+    --yellow: #E7B83D;
+    --green: #66E264;
+    --orange: #E7A05E;
+
+    /* font family*/
+    --font-family-main: 'Lato', sans-serif;
+    --font-family-main: 'Cabin', sans-serif;
+
+    /* font-size */
+    --small-text: 16px;
+    --text: 18px;
+    --title: 32px;
+    --icon-height: 20px;
+
+    /* box-shadow */
+    --small-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+
+    /* transition */
+    --basic-transition: .2s ease-in-out;
+}

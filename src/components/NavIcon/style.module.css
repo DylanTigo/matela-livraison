@@ -1,0 +1,20 @@
+@import "../../assets/Variables.css";
+
+.navIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 9999px;
+  background: var(--secondary-white);
+  box-shadow: var(--small-box-shadow);
+  font-size: var(--icon-height);
+  transition: var(--basic-transition);
+
+  &:hover{
+    background: var(--hover-white-secondary);
+  }
+}
